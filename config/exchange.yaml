@@ -1,0 +1,6 @@
+exchange: binance
+market_type: spot  # TODO(user) spot or futures
+testnet: true
+quote_asset: USDT
+request_timeout_seconds: 10
+recv_window_ms: 5000

@@ -1,0 +1,6 @@
+enabled: false
+name: placeholder
+symbol: BTCUSDT  # TODO(user)
+timeframe: 15m  # TODO(user)
+candles_lookback: 300
+params: {}

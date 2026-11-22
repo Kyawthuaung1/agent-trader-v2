@@ -1,0 +1,6 @@
+provider: ""  # TODO(user) e.g. openai | anthropic | gemini
+model: ""  # TODO(user)
+temperature: 0.2
+max_tokens: 1024
+timeout_seconds: 30
+api_key_env: LLM_API_KEY
